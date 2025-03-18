@@ -7,15 +7,23 @@ PANKAJ SIR ACADEMY
 PANKAJ SIR ACADEMY
 PANKAJ SIR ACADEMY
 
-class B{
+class B{ }
 
 class A{
 
 }
 
+<<<<<<< Updated upstream
 
 //new feature 2
 class D{
 
 
 }
+=======
+//feature 1
+class C{
+
+}
+100% code is completed
+>>>>>>> Stashed changes
