@@ -9,5 +9,8 @@ PANKAJ SIR ACADEMY
 
 class B{
 
+class A{
+
+}
 
 }
